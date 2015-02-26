@@ -20,11 +20,9 @@ Heart = H, Spade = S, Club = C, Diamond = D;
 Split with comma(,); One line for one person; Start a new line whit [LF]
 
 Ex.
-
+```
 S-1,H-J,C-3,...
-
 H-X,S-Q,D-4,...
-
 ...
-
 ...
+```
