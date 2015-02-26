@@ -1,4 +1,4 @@
-# dispatch-poker-to-n-people
+# dispatch-poker-cards-to-n-people
 shuffle and dispatch poker cards to N(n>0) people [PHP]
 
 **Purpos**
